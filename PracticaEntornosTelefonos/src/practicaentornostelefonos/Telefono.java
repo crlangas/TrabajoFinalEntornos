@@ -3,6 +3,7 @@ package practicaentornostelefonos;
 /**
  *
  * @author Carlos
+ *
  * clase madre abstracta telefono
  */
 public abstract class Telefono {
