@@ -7,7 +7,6 @@ import java.util.Scanner;
  *
  * @author Carlos
  *  *  @see <a href="https://view.genially.com/621e9aa9df21310011780bf1"> Link a el genially </a>
-
  */
 public class PracticaEntornosTelefonos {
 
